@@ -1,6 +1,6 @@
 # Hi there, I'm Shaun Li 👋
 
-### 🚀 Full-Stack Engineer | SaaS Innovator | Tech Enthusiast
+### 🚀 Full-Stack Engineer | Life Innovator | Tech Enthusiast
 
 As a **full-stack engineer**, I specialize in delivering **scalable**, **high-impact** solutions in fast-paced, agile environments. I thrive on **collaborating with cross-functional teams** to define clear requirements and deliver measurable business outcomes. Whether working closely with **UI/UX teams** or business stakeholders, I focus on bridging the gap between **technical** and **non-technical** teams.
 
